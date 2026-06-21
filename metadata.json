@@ -1,0 +1,6 @@
+{
+  "name": "GrainGuardian",
+  "description": "Storage Intelligence for Post-Harvest Decisions: assesses storage readiness, calculates Grain Health Scores, predicts risks, and generates recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
